@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>vrainwasher.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5A070D5F5D8B9DC446ACD93BBF66329DB535F9BC</string>
+				<key>dateExpires</key>
+				<string>15/10/2020</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JR6QP2D5KK.org.reactjs.native.example.vrainwasher</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JR6QP2D5KK</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>vrainwasher.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e7d64ff0-6472-4f0d-a4ed-e79aeca57962</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.example.vrainwasher</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JR6QP2D5KK</string>
+				<key>name</key>
+				<string>Muhammad Arsalan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58511138940",
+    "firebase_url": "https://brainwash-zach.firebaseio.com",
+    "project_id": "brainwash-zach",
+    "storage_bucket": "brainwash-zach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58511138940:android:3739402b4797150a5aa9f9",
+        "android_client_info": {
+          "package_name": "com.brainwasher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58511138940-hhuvrmornqpprk3tnohnlv2a39nlm2la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1tp0o1zY4trnAeZEAmiXG9sc9XHbVNIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58511138940-hhuvrmornqpprk3tnohnlv2a39nlm2la.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58511138940-ul3ogqkjkj643gjmk28sfjqblsf2ta7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.vrainwasher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
